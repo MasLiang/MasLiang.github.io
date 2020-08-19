@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syntax on Zhipeng personal website</title>
+    <link>http://example.org/categories/syntax/</link>
+    <description>Recent content in syntax on Zhipeng personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2020, Zhipeng Zhao</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://example.org/homepage/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/homepage/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://example.org/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zhipeng Zhao</title>
+      <link>http://example.org/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a final-year PhD student in ECE department at CMU advised by &lt;a href=&#34;http://users.ece.cmu.edu/~jhoe/doku/doku.php&#34;&gt;Prof. James Hoe&lt;/a&gt;. I also work closely with other professors at CMU, including &lt;a href=&#34;https://www.justinesherry.com/&#34;&gt;Prof. Justine Sherry&lt;/a&gt; from Computer Science department and &lt;a href=&#34;https://users.ece.cmu.edu/~vsekar/&#34;&gt;Prof. Vyas Sekar&lt;/a&gt; from ECE department.&lt;/p&gt;
+&lt;p&gt;Prior to joining CMU in 2015, I recieved my B.S degree in 2012 and M.S degree in 2014 both in Eelectrical Engineering from Beihang University, China, advised by &lt;a href=&#34;http://www.ee.buaa.edu.cn/info/1040/1136.htm&#34;&gt;Prof. Jun Wang&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m an FPGA enthusiast. I have built various FPGA-based systems in past 8 years. In recent years, my research interests lie at the intersection of FPGA and networking.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
