@@ -11356,8 +11356,7 @@ readers do not read off random characters that represent icons */
 
 #nav-social {
   position: relative;
-  left: 20px; 
-  top: 120px;}
+  left: 1px; }
 
 .category {
   color: white;
@@ -11397,35 +11396,3 @@ h4 {
 
 a {
   text-decoration: underline; }
-
-/*.firstp, .socialul{
-    float: left;
-    margin: 0;
-    padding: 2;
-}*/
-.header1 .site-affilation {
-    display: flex;
-    /*justify-content: space-between;*/
-}
-.redcolor{
-  color:rgb(166, 25, 46);
-}
-.footer {
-    text-align: right;
-    font-size: 0.75em;
-    color: #999;
-    border-top: 1px solid #f4f4f4;
-    padding: 20px 0;
-    margin-top: 40px;
-}
-.footer .cmu_image {
-    display: block;
-    margin-left: 50px;
-    max-width: 10%;
-    height: auto;
-    float: left;
-}
-.wrapper {
-    max-width: 760px;
-    margin: 0 auto;
-}
