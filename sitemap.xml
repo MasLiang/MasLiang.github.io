@@ -113,6 +113,11 @@
   </url>
   
   <url>
+    <loc>http://example.org/google8bd326a12d4cc67e/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://example.org/tags/index/</loc>
   </url>
   
