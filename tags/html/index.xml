@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2021, Zhipeng Zhao</copyright>
-    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/tags/html/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,13 +15,13 @@
     <item>
       <title>Zhipeng Zhao</title>
       <link>http://example.org/</link>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/</guid>
-      <description>&lt;p&gt;I’m a final-year PhD student in ECE at CMU advised by &lt;a href=&#34;http://users.ece.cmu.edu/~jhoe/&#34;&gt;Prof. James Hoe&lt;/a&gt;. I also work closely with &lt;a href=&#34;https://www.justinesherry.com/&#34;&gt;Prof. Justine Sherry&lt;/a&gt; and &lt;a href=&#34;https://users.ece.cmu.edu/~vsekar/&#34;&gt;Prof. Vyas Sekar&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;I have graduated from CMU and joined Microsoft.&lt;/strong&gt;
+I recieved my PhD in ECE from CMU in 2021 advised by &lt;a href=&#34;http://users.ece.cmu.edu/~jhoe/&#34;&gt;Prof. James Hoe&lt;/a&gt;. I also worked closely with &lt;a href=&#34;https://www.justinesherry.com/&#34;&gt;Prof. Justine Sherry&lt;/a&gt; and &lt;a href=&#34;https://users.ece.cmu.edu/~vsekar/&#34;&gt;Prof. Vyas Sekar&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Prior to joining CMU in 2015, I recieved my B.S. degree in 2012 and M.S. degree in 2014 both in Electrical Engineering from Beihang University, China.&lt;/p&gt;
-&lt;p&gt;I’m an FPGA enthusiast. I have built various FPGA-based systems in past years. In recent years, my research interests lie in the intersection of FPGA and networking.&lt;/p&gt;
-&lt;p&gt;I will &amp;ldquo;rejoin&amp;rdquo; &lt;a href=&#34;https://www.microsoft.com/en-us/research/project/project-catapult/&#34;&gt;Microsoft Catapult Team&lt;/a&gt; in 2021 summer!&lt;/p&gt;</description>
+&lt;p&gt;I’m an FPGA enthusiast. I have built various FPGA-based systems in past years. In recent years, my research interests lie in the intersection of FPGA and networking.&lt;/p&gt;</description>
     </item>
     
     <item>
