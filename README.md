@@ -1,4 +1,4 @@
-# jiaweiliang.github.io
+# os-hxfan.github.io
 Personal Website construced using [Jekyll](https://jekyllrb.com/docs/).
 We adopt [minimal mistake theme](https://github.com/mmistakes/minimal-mistakes)
 

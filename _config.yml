@@ -15,7 +15,7 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "Beijing China"
+locale                   : "en-US"
 title                    : "Hardware, ML & Quantum Computing"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Jiawei Liang"
-  avatar           : "/assets/images/jiawei_liang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "IC designer"
-  location         : "Beijing China"
+  avatar           : "/assets/images/Liang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "IC designer."
+  location         : "Beijing, China"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "jiawei.liang0303@gmail.com"
+      url: "mailto:jiawei.liang0303@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
