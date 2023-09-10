@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /pages/pub
-author_profile: false
+author_profile: true
 ---
 # Publications
 

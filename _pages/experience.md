@@ -1,9 +1,8 @@
 ---
 layout: single
 permalink: /pages/exp
-author_profile: false
+author_profile: true
 ---
-# Experience 
 
 ## Industrial Experience 
 
