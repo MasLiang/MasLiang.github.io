@@ -11,9 +11,9 @@ ___
 ###### ZEKU Technology Co., Ltd., Beijinag, China
 *<font size=4>(2022.02 - 2023.05) </font>* 
 - Modem IC designer
-- Worked for 4/5G uplink channel encoder (UCE), FFT, 23G DMA pre-process module design. 
+- Worked for 4/5G uplink channel encoder,  FFT, 23G DMA pre-process module design. 
 - Some common IP were designed such as pipo-based pseudo double port SRAM interface, FIFO based PIPE module. 
-- Worked for pre-ECO 3 times. 
+- Worked for pre-ECO 3 times T_T. 
 
 ###### NVIDIA 
 *<font size=4>(2021.07 - 2021.09) </font>*
