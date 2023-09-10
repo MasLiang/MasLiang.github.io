@@ -3,7 +3,6 @@ layout: single
 permalink: /pages/exp
 author_profile: true
 ---
-
 # Experience
 ___
 
