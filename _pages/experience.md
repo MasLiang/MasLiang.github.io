@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 # Experience
+___
 
 ## Industrial Experience 
 
@@ -21,7 +22,7 @@ author_profile: true
 - Focus on group timing skew of different chiplet. 
 
 ###### Beihang University
-*<font size=4>Beijing, China, 2020-2021 </font>* 
+*<font size=4>(2020.09 - 2021.07)</font>* 
 
 - Teaching assistant.
 - Completed guidance of Implementing Neural Networks in FPGA, which contains text material, video, and sample programs. This guidance has been read by more than 100,000 people.
