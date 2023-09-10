@@ -5,7 +5,7 @@ author_profile: true
 ---
 # Experience
 
-## 👨‍💼 Industrial Experience 
+## Industrial Experience 
 
 ###### ZEKU Technology Co., Ltd., Beijinag, China
 *<font size=4>(2022.02 - 2023.05) </font>* 
@@ -26,9 +26,8 @@ author_profile: true
 - Completed guidance of Implementing Neural Networks in FPGA, which contains text material, video, and sample programs. This guidance has been read by more than 100,000 people.
 - Link of it: https://github.com/MasLiang/CNN-On-FPGA
 
-___
 
-##  🏫 Educational Experience 
+## Educational Experience 
 
 ###### Beihang University
 
