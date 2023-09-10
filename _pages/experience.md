@@ -1,8 +1,10 @@
 ---
 layout: single
 permalink: /pages/exp
-author_profile: true
+author_profile: false
 ---
+# Experience 
+
 ## Industrial Experience 
 
 ###### ZEKU Technology Co., Ltd., Beijinag, China
