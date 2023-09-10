@@ -4,8 +4,6 @@ permalink: /pages/pub
 author_profile: true
 ---
 
-**Full list of publications can be found in my [google scholar](https://scholar.google.cz/citations?user=2pbOVBcAAAAJ&hl=zh-CN&oi=ao)**
-___
 
 ## Journal Papers
 
@@ -16,3 +14,5 @@ H. Li, **J. Liang** (Corresponding author), H. Fan, et al. "Design Space Explora
 ## Conference Papers
 
 H. Li, H. Fan, **J. Liang** (Corresponding author). "An implementation of Quantum Most-significant Digit-first Addition", 12th International Green and Sustainable Computing Conference.
+
+**Full list of publications can be found in my [google scholar](https://scholar.google.cz/citations?user=2pbOVBcAAAAJ&hl=zh-CN&oi=ao)**
