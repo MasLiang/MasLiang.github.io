@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "Beijing China"
@@ -126,6 +126,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.cz/citations?user=2pbOVBcAAAAJ&hl=zh-CN&oi=ao"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid-in"
+      url: "https://orcid.org/0000-0003-0748-3183"
 
 # Site Footer
 footer:
