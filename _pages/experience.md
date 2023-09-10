@@ -26,8 +26,9 @@ author_profile: true
 - Completed guidance of Implementing Neural Networks in FPGA, which contains text material, video, and sample programs. This guidance has been read by more than 100,000 people.
 - Link of it: https://github.com/MasLiang/CNN-On-FPGA
 
+___
 
-## Educational Experience 
+##  Educational Experience 
 
 ###### Beihang University
 
