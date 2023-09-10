@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ML & Hardware System"
+title                    : "FPGA, IC, ML"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Jiawei Liang"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hongxiang Fan"
-  avatar           : "/assets/images/Fan.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. candidate at Imperial College London."
-  location         : "London, UK"
+  name             : "Jiawei Liang"
+  avatar           : "/assets/images/jiawei_liang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "IC designer"
+  location         : "Beijing China"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:h.fan17@imperial.ac.uk"
+      url: "jiawei.liang0303@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -119,13 +119,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/hongxiang-fan-9a6311149/"
+      # url: "https://www.linkedin.com/in/hongxiang-fan-9a6311149/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/os-hxfan"
+      url: "https://github.com/MasLiang"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=iBT_uw4AAAAJ&hl=en"
+      url: "https://scholar.google.cz/citations?user=2pbOVBcAAAAJ&hl=zh-CN&oi=ao"
 
 # Site Footer
 footer:
