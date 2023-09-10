@@ -6,6 +6,8 @@ author_profile: true
 
 # Publication
 
+**Full list of publications can be found in my [google scholar](https://scholar.google.cz/citations?user=2pbOVBcAAAAJ&hl=zh-CN&oi=ao)**
+
 ## Journal Papers
 
 P. Lei (Advisor), **J. Liang**, T. Zheng, et al. "Compression of Convolutional Neural Networks with Divergent REpresentation of Filters", IEEE Transaction on Neural Network and Learning Sytem. (Early Access)
@@ -15,5 +17,3 @@ H. Li, **J. Liang** (Corresponding author), H. Fan, et al. "Design Space Explora
 ## Conference Papers
 
 H. Li, H. Fan, **J. Liang** (Corresponding author). "An implementation of Quantum Most-significant Digit-first Addition", 12th International Green and Sustainable Computing Conference.
-
-**Full list of publications can be found in my [google scholar](https://scholar.google.cz/citations?user=2pbOVBcAAAAJ&hl=zh-CN&oi=ao)**
