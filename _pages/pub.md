@@ -4,8 +4,6 @@ permalink: /pages/pub
 author_profile: true
 ---
 
-# Publications
-
 **Full list of publications can be found in my [google scholar](https://scholar.google.cz/citations?user=2pbOVBcAAAAJ&hl=zh-CN&oi=ao)**
 
 ___
