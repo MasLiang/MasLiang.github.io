@@ -14,10 +14,12 @@ author_profile: true
 - Some common IP were designed such as pipo-based pseudo double port SRAM interface, FIFO based PIPE module. 
 - Worked for pre-ECO 3 times T_T. 
 
-###### NVIDIA 
+###### NVIDIA, Beijing, China 
 *<font size=4>(2021.07 - 2021.09) </font>*
 - VLSI PD Intern.
 - Focus on group timing skew of different chiplet. 
+
+## Teaching Experience
 
 ###### Beihang University
 *<font size=4>(2020.09 - 2021.07)</font>* 
