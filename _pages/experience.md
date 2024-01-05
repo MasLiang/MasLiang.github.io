@@ -32,11 +32,17 @@ ___
 
 ##  Educational Experience 
 
+###### HKUST
+
+**<font size=4>Ph.D in Electronic and Computing Engineering</font>**
+
+*<font size=4>2024.01- precent/font>* 
+
 ###### Beihang University
 
 **<font size=4>Master of Engineering (MS. Eng.) in Information and Communication Engineering</font>**
 
-*<font size=4>2019.09- 2023.01</font>* 
+*<font size=4>2019.09- 2022.01</font>* 
 
 ###### Beihang University
 
