@@ -34,7 +34,7 @@ ___
 
 ###### HKUST
 
-**<font size=4>Ph.D in Electronic and Computing Engineering</font>**
+**<font size=4>Ph.D in Electronic and Computer Engineering</font>**
 
 *<font size=4>2024.01- precent/font>* 
 
