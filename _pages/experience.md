@@ -17,7 +17,7 @@ author_profile: true
 ###### NVIDIA, Beijing, China 
 *<font size=4>(2021.07 - 2021.09) </font>*
 - VLSI PD Intern.
-- Focus on group timing skew of different chiplet. 
+- Focus on analysing group timing skew of different chiplet. 
 
 ## Teaching Experience
 
@@ -25,7 +25,7 @@ author_profile: true
 *<font size=4>(2020.09 - 2021.07)</font>* 
 
 - Teaching assistant.
-- Completed guidance of Implementing Neural Networks in FPGA, which contains text material, video, and sample programs. This guidance has been read by more than 100,000 people.
+- Completed guidance of Implementing Neural Networks in FPGA, which contains text material, video, and sample programs. This guidance has been read more than 100,000 times and the open source code have more than 100 starts!
 - Link of it: https://github.com/MasLiang/CNN-On-FPGA
 
 ___
