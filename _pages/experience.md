@@ -9,8 +9,8 @@ author_profile: true
 
 ###### ZEKU Technology Co., Ltd., Beijinag, China
 *<font size=4>(2022.02 - 2023.05) </font>* 
-- Modem IC designer
-- Worked for 4/5G uplink channel encoder,  FFT, 2/3G DMA pre-process module design. And I designed some common IP used by the whole company such as pipo-based pseudo double port SRAM interface, FIFO based PIPE module. 
+- Modem IC Phy designer
+- Designed 4/5G uplink channel encoder sub-system, uplink digital front end subsystem, FFT module, 2/3G DMA pre-process module. Designed some common IP used by the whole company such as pipo-based pseudo double port SRAM interface, FIFO based PIPE module. 
 - An unforgettable experience: I did manual ECO for 3 times, and one of them was the first one in my department T_T. 
 
 ###### NVIDIA, Beijing, China 
