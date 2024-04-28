@@ -19,6 +19,5 @@ H. Li, **J. Liang** (Corresponding author), H. Fan, et al. "Design Space Explora
 ___
 
 ## Conference Papers
-H. Li, H. Fan, **J. Liang** (Corresponding author). "An implementation of Quantum Most-significant Digit-first Addition", 12th International Green and Sustainable Computing Conference.
-
+H. Li, H. Fan, **J. Liang** (Corresponding author). "An implementation of Quantum Most-significant Digit-first Addition", 2021 12th International Green and Sustainable Computing Conference (IGSC), Pullman, WA, USA, 2021, pp. 1-8.[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9651595)
 ___
