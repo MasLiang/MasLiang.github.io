@@ -6,118 +6,65 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 2
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+This is Jiawei Liang. He is currently a PhD student superivised by Professor Wei Zhang in Reconfigurable computing system laboratory (RCSL) at the Department of Electronic & Computer Engineering in HKUST. His research interests focus on hardware system and EDA for FPGA.
+Previously, He obtained BEng and MSc Degree in school of EE from Beihang University, China. He worked for CNN pruning at that time. Later, he served as an IC designer for 2 years.
 
 * * *
 
-### Here is an unordered list:
+# Experience
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## Education Experience
 
-### And an ordered list:
+### HongKong University of Science and Technology, HongKong, China.
+_(2024.01 - )_
+Doctor of Philosophy (Ph.D.) in Electronic and Computer Engineering (ECE).
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+### Beihang University, Beijing, China.
+_(2019.09 - 2022.01)_
+Master of Research in Electronic and Information Engineering (EE).
 
-### And a nested list:
+### Beihang University, Beijing, China.
+_(2015.09 - 2019.07)_
+Bachelor of Engineering (B.Eng.) in Electronic and Information Engineer (EE).
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+## Industrial Experience 
 
-### Small image
+### Zeku Tech., Beijing, China.
+_(2022.02 - 2023.05)_
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+* Served as a Modem PHY IC designer, worked for 4/5G uplink channel encoder (TX ENC), FFT, 23G DMA pre-process module design, and some common IP were designed such as pipo-based pseudo double port SRAM interface, FIFO based PIPE module. 
+* Unforgettable Memories: I have completed the first **ECO** in my department, and I have complated totally three **ECO** T\_T.
+* In last year rating, I get "Outstanding" (Top 10%)^\_^
 
-### Large image
+### NVIDIA Tech., Beijing, China.
+_(2021.07 - 2021.09)_
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* Served as a Physical Design intern, worked for clock skew analyzing in chiplet level.
+* An interesting tool was developed for visualization of clock skews.
+
+## Teaching Experience
+
+### ELEC 4320, FPGA-based Design: From Theory to Practice, Autumn
+_School of Engineering, Department of ECE, HKUST. (2024.09 - )_
+
+### Digital Signal Processing, Autumn
+_Department of EE, BUAA. (2020.09 - 2021.01)_
+
+### Electronic Design, Summer
+_Department of EE, BUAA. (2020.07 - 2020.09)_
 
 
-### Definition lists can be used with HTML syntax.
+* * *
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+# Publication
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Journal
 
-```
-The final element.
-```
+[J2] He Li, **Jiawei Liang**, Hongxiang Fan, "Design space exploration for efficient quantum most-significant digit-first arithmetic", to appear in the IEEE Transactions on Computers (TC), 2022.
+
+[J1] Pei Lei, **Jiawei Liang**, Tong Zheng, Jun Wang, "Design space exploration for efficient quantum most-significant digit-first arithmetic", to appear in the IEEE Transactions on Neural Network and Learning System (TNNLS), 2022.
+
+## Conference
+
+[C1] He Li, Hongxiang Fan, **Jiawei Liang**, "Quantum most-significant digit-first addition", to appear in 12th International Green and Sustainable Computing Conference (IGSC), 2021.
+
