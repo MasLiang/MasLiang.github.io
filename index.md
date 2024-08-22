@@ -9,20 +9,27 @@ Previously, He obtained BEng and MSc Degree in school of EE from Beihang Univers
 ## Education Experience
 
 ### HongKong University of Science and Technology, HongKong, China.
+
 _(2024.01 - )_
+
 Doctor of Philosophy (Ph.D.) in Electronic and Computer Engineering (ECE).
 
 ### Beihang University, Beijing, China.
+
 _(2019.09 - 2022.01)_
+
 Master of Research in Electronic and Information Engineering (EE).
 
 ### Beihang University, Beijing, China.
+
 _(2015.09 - 2019.07)_
+
 Bachelor of Engineering (B.Eng.) in Electronic and Information Engineer (EE).
 
 ## Industrial Experience 
 
 ### Zeku Tech., Beijing, China.
+
 _(2022.02 - 2023.05)_
 
 * Served as a Modem PHY IC designer, worked for 4/5G uplink channel encoder (TX ENC), FFT, 23G DMA pre-process module design, and some common IP were designed such as pipo-based pseudo double port SRAM interface, FIFO based PIPE module. 
@@ -30,6 +37,7 @@ _(2022.02 - 2023.05)_
 * In last year rating, I get "Outstanding" (Top 10%)^\_^
 
 ### NVIDIA Tech., Beijing, China.
+
 _(2021.07 - 2021.09)_
 
 * Served as a Physical Design intern, worked for clock skew analyzing in chiplet level.
@@ -38,12 +46,15 @@ _(2021.07 - 2021.09)_
 ## Teaching Experience
 
 ### ELEC 4320, FPGA-based Design: From Theory to Practice, Autumn
+
 _School of Engineering, Department of ECE, HKUST. (2024.09 - )_
 
 ### Digital Signal Processing, Autumn
+
 _Department of EE, BUAA. (2020.09 - 2021.01)_
 
 ### Electronic Design, Summer
+
 _Department of EE, BUAA. (2020.07 - 2020.09)_
 
 
