@@ -1,5 +1,5 @@
 
-This is Jiawei Liang. He is currently a PhD student superivised by Professor Wei Zhang in Reconfigurable computing system laboratory (RCSL) at the Department of Electronic & Computer Engineering in HKUST. His research interests focus on hardware system and EDA for FPGA.
+Jiawei Liang is currently a PhD student superivised by Professor Wei Zhang in Reconfigurable computing system laboratory (RCSL[https://eeweiz.home.ece.ust.hk/]) at the Department of Electronic & Computer Engineering in HKUST. His research interests focus on hardware system and EDA for FPGA.
 Previously, He obtained BEng and MSc Degree in school of EE from Beihang University, China. He worked for CNN pruning at that time. Later, he served as an IC designer for 2 years.
 
 * * *
@@ -64,11 +64,11 @@ _Department of EE, BUAA. (2020.07 - 2020.09)_
 
 ### Journal
 
-[J2] He Li, **Jiawei Liang**, Hongxiang Fan, "Design space exploration for efficient quantum most-significant digit-first arithmetic", to appear in the IEEE Transactions on Computers (TC), 2022.
+[J2] He Li, **Jiawei Liang**, Hongxiang Fan, "Design space exploration for efficient quantum most-significant digit-first arithmetic", to appear in the IEEE Transactions on Computers (TC), 2022. pdf[https://ieeexplore.ieee.org/abstract/document/9924609/]
 
-[J1] Pei Lei, **Jiawei Liang**, Tong Zheng, Jun Wang, "Design space exploration for efficient quantum most-significant digit-first arithmetic", to appear in the IEEE Transactions on Neural Network and Learning System (TNNLS), 2022.
+[J1] Pei Lei, **Jiawei Liang**, Tong Zheng, Jun Wang, "Design space exploration for efficient quantum most-significant digit-first arithmetic", to appear in the IEEE Transactions on Neural Network and Learning System (TNNLS), 2022. pdf[https://ieeexplore.ieee.org/abstract/document/9881223/]
 
 ### Conference
 
-[C1] He Li, Hongxiang Fan, **Jiawei Liang**, "Quantum most-significant digit-first addition", to appear in 12th International Green and Sustainable Computing Conference (IGSC), 2021.
+[C1] He Li, Hongxiang Fan, **Jiawei Liang**, "Quantum most-significant digit-first addition", to appear in 12th International Green and Sustainable Computing Conference (IGSC), 2021. pdf[https://ieeexplore.ieee.org/abstract/document/9651595/]
 
