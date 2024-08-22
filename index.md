@@ -1,10 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
 
 This is Jiawei Liang. He is currently a PhD student superivised by Professor Wei Zhang in Reconfigurable computing system laboratory (RCSL) at the Department of Electronic & Computer Engineering in HKUST. His research interests focus on hardware system and EDA for FPGA.
 Previously, He obtained BEng and MSc Degree in school of EE from Beihang University, China. He worked for CNN pruning at that time. Later, he served as an IC designer for 2 years.
