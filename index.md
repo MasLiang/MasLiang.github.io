@@ -61,7 +61,7 @@ _Department of EE, BUAA. (2020.09 - 2021.01)_
 
 _Department of EE, BUAA. (2020.07 - 2020.09)_
 
-- Served as an TA. An FPGA based CNN accelerator is designed as an exp for it and the reference [code](https://github.com/MasLiang/CNN-On-FPGA) and [tutorial](https://blog.csdn.net/qq_38798425/article/details/106359726?spm=1001.2014.3001.5501)(in Chinese) are published.
+- Served as an TA. An FPGA based CNN accelerator is designed as an exp for it and the reference [code](https://github.com/MasLiang/CNN-On-FPGA) and [tutorial](https://blog.csdn.net/qq_38798425/article/details/106359726?spm=1001.2014.3001.5501) (in Chinese) are published.
 
 * * *
 
