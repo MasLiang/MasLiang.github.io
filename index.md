@@ -1,6 +1,7 @@
+# About me
 
-Jiawei Liang is currently a PhD student superivised by Professor Wei Zhang in Reconfigurable computing system laboratory ([RCSL](https://eeweiz.home.ece.ust.hk/)) at the Department of Electronic & Computer Engineering in HKUST. His research interests focus on hardware system and EDA for FPGA.
-Previously, He obtained BEng and MSc Degree in school of EE from Beihang University, China. He worked for CNN pruning at that time. Later, he served as an IC designer for 2 years.
+I'm currently a PhD student superivised by Professor Wei Zhang in Reconfigurable computing system laboratory ([RCSL](https://eeweiz.home.ece.ust.hk/)) at the Department of Electronic & Computer Engineering in HKUST. My research interests focus on hardware system and EDA for FPGA.
+Previously, I obtained BEng and MSc Degree in school of EE from Beihang University, China, working for CNN pruning at that time. Later, I served as an IC designer for 2 years.
 
 * * *
 
