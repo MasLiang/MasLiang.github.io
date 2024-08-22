@@ -49,26 +49,32 @@ _(2021.07 - 2021.09)_
 
 _School of Engineering, Department of ECE, HKUST. (2024.09 - )_
 
+- Served as an TA.
+
 #### Digital Signal Processing, Autumn
 
 _Department of EE, BUAA. (2020.09 - 2021.01)_
+
+- Served as an TA.
 
 #### Electronic Design, Summer
 
 _Department of EE, BUAA. (2020.07 - 2020.09)_
 
+- Served as an TA. An FPGA based CNN accelerator is designed as an exp for it and the reference [code](https://github.com/MasLiang/CNN-On-FPGA) and [tutorial](https://blog.csdn.net/qq_38798425/article/details/106359726?spm=1001.2014.3001.5501)(in Chinese) are published.
 
 * * *
 
 # Publication
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=2pbOVBcAAAAJ&view_op=list_works&sortby=pubdate)
 
 ### Journal
 
-[J2] He Li, **Jiawei Liang**, Hongxiang Fan, "Design space exploration for efficient quantum most-significant digit-first arithmetic", to appear in the IEEE Transactions on Computers (TC), 2022. pdf[https://ieeexplore.ieee.org/abstract/document/9924609/]
+[J2] He Li, **Jiawei Liang**, Hongxiang Fan, "Design space exploration for efficient quantum most-significant digit-first arithmetic", to appear in the IEEE Transactions on Computers (TC), 2022. [pdf](https://ieeexplore.ieee.org/abstract/document/9924609/) [code](https://github.com/MasLiang/Quantum-Adder)
 
-[J1] Pei Lei, **Jiawei Liang**, Tong Zheng, Jun Wang, "Design space exploration for efficient quantum most-significant digit-first arithmetic", to appear in the IEEE Transactions on Neural Network and Learning System (TNNLS), 2022. pdf[https://ieeexplore.ieee.org/abstract/document/9881223/]
+[J1] Pei Lei, **Jiawei Liang**, Tong Zheng, Jun Wang, "Design space exploration for efficient quantum most-significant digit-first arithmetic", to appear in the IEEE Transactions on Neural Network and Learning System (TNNLS), 2022. [pdf](https://ieeexplore.ieee.org/abstract/document/9881223/)
 
 ### Conference
 
-[C1] He Li, Hongxiang Fan, **Jiawei Liang**, "Quantum most-significant digit-first addition", to appear in 12th International Green and Sustainable Computing Conference (IGSC), 2021. pdf[https://ieeexplore.ieee.org/abstract/document/9651595/]
+[C1] He Li, Hongxiang Fan, **Jiawei Liang**, "Quantum most-significant digit-first addition", to appear in 12th International Green and Sustainable Computing Conference (IGSC), 2021. [pdf](https://ieeexplore.ieee.org/abstract/document/9651595/)
 
