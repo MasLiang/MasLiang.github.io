@@ -41,7 +41,7 @@ _(2022.02 - 2023.05)_
 
 _(2021.07 - 2021.09)_
 
-* Served as a Physical Design intern, worked for clock skew analyzing in chiplet level.
+* Served as a Physical Design intern, worked for clock skew analyzing in module level.
 * An interesting tool was developed for visualization of clock skews.
 
 ### Teaching Experience
