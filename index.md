@@ -77,7 +77,9 @@ _Department of EE, BUAA. (2020.07 - 2020.09)_
 
 ### Conference
 
-[C2] **Jiawei Liang**, Linfeng Du, Xiaofeng Zhou, Zhe Lin, Jiang Xu, Wei Zhang, "AutoClock: Automated Clock Management for Power-Efficient HLS Designs on FPGAs", 62th ACM/IEEE Design Automation Conference (DAC), 2025. [code](https://github.com/MasLiang/AutoClock)
+[C3] **Jiawei Liang**, Linfeng Du, Xiaofeng Zhou, Zhe Lin, Jiang Xu, Wei Zhang, "AutoClock: Automated Clock Management for Power-Efficient HLS Designs on FPGAs", 62th ACM/IEEE Design Automation Conference (DAC), 2025. [code](https://github.com/MasLiang/AutoClock)
+
+[C2] Yipu Zhang, **Jiawei Liang**, Jian Peng, Jiang Xu, Wei Zhang, "SpNeRF: Memory Efficient Sparse Volumetric Neural Rendering Accelerator for Edge Devices", Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025.
 
 [C1] He Li, Hongxiang Fan, **Jiawei Liang**, "Quantum most-significant digit-first addition", 12th International Green and Sustainable Computing Conference (IGSC), 2021. [pdf](https://ieeexplore.ieee.org/abstract/document/9651595/)
 
