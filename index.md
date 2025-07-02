@@ -71,11 +71,15 @@ _Department of EE, BUAA. (2020.07 - 2020.09)_
 
 ### Journal
 
-[J2] He Li, **Jiawei Liang**, Hongxiang Fan, "Design space exploration for efficient quantum most-significant digit-first arithmetic", to appear in the IEEE Transactions on Computers (TC), 2022. [pdf](https://ieeexplore.ieee.org/abstract/document/9924609/) [code](https://github.com/MasLiang/Quantum-Adder)
+[J2] He Li, **Jiawei Liang**, Hongxiang Fan, "Design space exploration for efficient quantum most-significant digit-first arithmetic", IEEE Transactions on Computers (TC), 2022. [pdf](https://ieeexplore.ieee.org/abstract/document/9924609/) [code](https://github.com/MasLiang/Quantum-Adder)
 
-[J1] Pei Lei, **Jiawei Liang**, Tong Zheng, Jun Wang, "Design space exploration for efficient quantum most-significant digit-first arithmetic", to appear in the IEEE Transactions on Neural Network and Learning System (TNNLS), 2022. [pdf](https://ieeexplore.ieee.org/abstract/document/9881223/)
+[J1] Pei Lei, **Jiawei Liang**, Tong Zheng, Jun Wang, "Design space exploration for efficient quantum most-significant digit-first arithmetic", IEEE Transactions on Neural Network and Learning System (TNNLS), 2022. [pdf](https://ieeexplore.ieee.org/abstract/document/9881223/)
 
 ### Conference
+
+[C6] Linfeng Du, **Jiawei Liang**, Jason Lau, Yuze Chi, Yutong Xie, Chunyou SU, Afzal Ahmad, Zifan He, Jake Ke, Jinming Ge, Jason Cong, Wei Zhang and Licheng Guo, "Automated Design Space Exploration in High-Level Physical Synthesis", IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025.
+
+[C5] Zeyu LI, Shangkun LI, Chuyi DAI, Chaofang MA, **Jiawei Liang**, Xin Li and Wei Zhang, "Robin: RWKV accelerator using Block Circulant Matrices based on FPGA", IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025.
 
 [C4] Xingyu Liu, **Jiawei Liang**, Linfeng Du, Yipu Zhang, Hanwei Fan, Chaofang Ma, Jiang Xu, Wei Zhang, "FLEX: Leveraging FPGA-CPU Synergy for Mixed-Cell-Height Legalization Acceleration", 54th International Conference on Parallel Processing (ICPP), 2025.
 
