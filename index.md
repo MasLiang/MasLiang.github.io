@@ -46,9 +46,15 @@ _(2021.07 - 2021.09)_
 
 ### Teaching Experience
 
+#### ELEC 3300, Introduction to Embedded Systems
+
+_School of Engineering, Department of ECE, HKUST. (2025.02 - 2024.05)_
+
+- Served as an TA.
+
 #### ELEC 4320, FPGA-based Design: From Theory to Practice, Autumn
 
-_School of Engineering, Department of ECE, HKUST. (2024.09 - )_
+_School of Engineering, Department of ECE, HKUST. (2024.09 - 2024.11)_
 
 - Served as an TA.
 
