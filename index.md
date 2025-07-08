@@ -87,7 +87,7 @@ _Department of EE, BUAA. (2020.07 - 2020.09)_
 
 [C6] Linfeng Du, **Jiawei Liang**, Jason Lau, Yuze Chi, Yutong Xie, Chunyou SU, Afzal Ahmad, Zifan He, Jake Ke, Jinming Ge, Jason Cong, Wei Zhang and Licheng Guo. "Automated Design Space Exploration in High-Level Physical Synthesis." Proceedings of the 44th IEEE/ACM International Conference on Computer-Aided Design (ICCAD). 2025.
 
-[C5] Zeyu LI, Shangkun LI, Chuyi DAI, Chaofang MA, **Jiawei Liang**, Xin Li and Wei Zhang, "Robin: RWKV accelerator using Block Circulant Matrices based on FPGA", Proceedings of the 44th IEEE/ACM International Conference on Computer-Aided Design (ICCAD). 2025.
+[C5] Zeyu Li, Shangkun Li, Chuyi Dai, Chaofang Ma, **Jiawei Liang**, Xin Li and Wei Zhang, "Robin: RWKV accelerator using Block Circulant Matrices based on FPGA", Proceedings of the 44th IEEE/ACM International Conference on Computer-Aided Design (ICCAD). 2025.
 
 [C4] Xingyu Liu, **Jiawei Liang**, Linfeng Du, Yipu Zhang, Hanwei Fan, Chaofang Ma, Jiang Xu, Wei Zhang, "FLEX: Leveraging FPGA-CPU Synergy for Mixed-Cell-Height Legalization Acceleration", 54th International Conference on Parallel Processing (ICPP), 2025.
 
