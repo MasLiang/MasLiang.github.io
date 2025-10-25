@@ -77,11 +77,11 @@ _Department of EE, BUAA. (2020.07 - 2020.09)_
 
 ### Journal
 
-[J3] He Li, **Jiawei Liang**, Hongxiang Fan, "Design space exploration for efficient quantum most-significant digit-first arithmetic", IEEE Transactions on Computers (TC), 2022. [pdf](https://ieeexplore.ieee.org/abstract/document/9924609/) [code](https://github.com/MasLiang/Quantum-Adder)
+[J3] Pei Lei, **Jiawei Liang**, Tong Zheng, Jun Wang, "Design space exploration for efficient quantum most-significant digit-first arithmetic", IEEE Transactions on Neural Network and Learning System (TNNLS), 2024. [pdf](https://ieeexplore.ieee.org/abstract/document/9881223/)
 
-[J2] Pei Lei, **Jiawei Liang**, Tong Zheng, Jun Wang, "Design space exploration for efficient quantum most-significant digit-first arithmetic", IEEE Transactions on Neural Network and Learning System (TNNLS), 2022. [pdf](https://ieeexplore.ieee.org/abstract/document/9881223/)
+[J2] He Li, **Jiawei Liang**, Hongxiang Fan, "Design space exploration for efficient quantum most-significant digit-first arithmetic", IEEE Transactions on Computers (TC), 2023. [pdf](https://ieeexplore.ieee.org/abstract/document/9924609/) [code](https://github.com/MasLiang/Quantum-Adder)
 
-[J1] Peng Lei, Jiawei Liang, Zhenyu Guan, Jun Wang, Tong Zheng, "Acceleration of FPGA based convolutional neural network for human activity classification using millimeter-wave radar", IEEE ACCESS, 2019. [pdb](https://ieeexplore.ieee.org/abstract/document/8753553/) 
+[J1] Peng Lei, **Jiawei Liang**, Zhenyu Guan, Jun Wang, Tong Zheng, "Acceleration of FPGA based convolutional neural network for human activity classification using millimeter-wave radar", IEEE ACCESS, 2019. [pdb](https://ieeexplore.ieee.org/abstract/document/8753553/) 
 
 ### Conference
 
