@@ -85,7 +85,7 @@ _Department of EE, BUAA. (2020.07 - 2020.09)_
 
 ### Conference
 
-[C7] Shangkun Li, Jinming Ge, Diyuan Tao, Zeyu Li, **Jiawei Liang**, Linfeng Du, Jiang Xu, Wei Zhang, and Cheng Tan. "NEURA: A Unified and Retargetable Compilation Framework for Coarse-Grained Reconfigurable Architectures", PLDI. 2026.
+[C8] Shangkun Li, Jinming Ge, Diyuan Tao, Zeyu Li, **Jiawei Liang**, Linfeng Du, Jiang Xu, Wei Zhang, and Cheng Tan. "NEURA: A Unified and Retargetable Compilation Framework for Coarse-Grained Reconfigurable Architectures", PLDI. 2026.
 
 [C7] Xingyu Liu, **Jiawei Liang**, Yipu Zhang, Linfeng Du, Chaofang Ma, Hui Yu, Jiang Xu and Wei Zhang. "DRACO: A Hardware-Efficient Robot Rigid Body Dynamics Accelerator with Precision-Aware Quantization Framework", HPCA. 2026.
 
