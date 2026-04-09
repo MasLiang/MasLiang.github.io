@@ -85,6 +85,8 @@ _Department of EE, BUAA. (2020.07 - 2020.09)_
 
 ### Conference
 
+[C7] Shangkun Li, Jinming Ge, Diyuan Tao, Zeyu Li, **Jiawei Liang**, Linfeng Du, Jiang Xu, Wei Zhang, and Cheng Tan. "NEURA: A Unified and Retargetable Compilation Framework for Coarse-Grained Reconfigurable Architectures", PLDI. 2026.
+
 [C7] Xingyu Liu, **Jiawei Liang**, Yipu Zhang, Linfeng Du, Chaofang Ma, Hui Yu, Jiang Xu and Wei Zhang. "DRACO: A Hardware-Efficient Robot Rigid Body Dynamics Accelerator with Precision-Aware Quantization Framework", HPCA. 2026.
 
 [C6] Linfeng Du, **Jiawei Liang**, Jason Lau, Yuze Chi, Yutong Xie, Chunyou SU, Afzal Ahmad, Zifan He, Jake Ke, Jinming Ge, Jason Cong, Wei Zhang and Licheng Guo. "Automated Design Space Exploration in High-Level Physical Synthesis", Proceedings of the 44th IEEE/ACM International Conference on Computer-Aided Design (ICCAD). 2025.
