@@ -1,0 +1,344 @@
+@import "normalize";
+@import "rouge-github";
+
+:root {
+  --ink: #223041;
+  --muted: #697586;
+  --soft: #f4f1ea;
+  --paper: #fffaf1;
+  --panel: #ffffff;
+  --line: #dfd8ce;
+  --blue: #2d5a7b;
+  --teal: #2f7d72;
+  --coral: #bd5b4a;
+  --shadow: 0 18px 48px rgba(33, 45, 62, 0.12);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+  color: var(--ink);
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  background:
+    linear-gradient(135deg, rgba(47, 125, 114, 0.09), transparent 32rem),
+    linear-gradient(315deg, rgba(189, 91, 74, 0.09), transparent 28rem),
+    var(--soft);
+}
+
+a {
+  color: var(--blue);
+  font-weight: 700;
+  text-decoration-color: rgba(45, 90, 123, 0.28);
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: var(--coral);
+  text-decoration-color: rgba(189, 91, 74, 0.55);
+}
+
+#skip-to-content {
+  position: absolute;
+  top: -4rem;
+  left: 1rem;
+  z-index: 10;
+  padding: 0.75rem 1rem;
+  color: #fff;
+  background: var(--ink);
+  border-radius: 0.35rem;
+}
+
+#skip-to-content:focus {
+  top: 1rem;
+}
+
+.site-shell {
+  display: grid;
+  grid-template-columns: minmax(18rem, 27vw) minmax(0, 1fr);
+  min-height: 100vh;
+}
+
+.profile-sidebar {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  padding: 2rem;
+  color: #fff;
+  background:
+    linear-gradient(rgba(34, 48, 65, 0.88), rgba(34, 48, 65, 0.94)),
+    url("https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80") center/cover;
+}
+
+.profile-panel {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100%;
+  max-width: 22rem;
+}
+
+.profile-mark {
+  display: grid;
+  place-items: center;
+  width: 4.25rem;
+  height: 4.25rem;
+  margin-bottom: 2rem;
+  color: var(--ink);
+  font-size: 1.25rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  background: var(--paper);
+  border: 3px solid rgba(255, 255, 255, 0.42);
+  border-radius: 50%;
+}
+
+.eyebrow {
+  margin: 0 0 0.7rem;
+  color: #f2cab9;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.profile-sidebar h1 {
+  margin: 0;
+  color: #fff;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: clamp(2.8rem, 6vw, 4.9rem);
+  line-height: 0.95;
+  letter-spacing: 0;
+}
+
+.profile-tagline {
+  max-width: 18rem;
+  margin: 1rem 0 2rem;
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 1rem;
+}
+
+.site-nav,
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.site-nav {
+  margin-bottom: 1.35rem;
+}
+
+.site-nav a,
+.profile-links a,
+.section-action a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.35rem;
+  padding: 0.48rem 0.78rem;
+  text-decoration: none;
+  border: 1px solid currentColor;
+  border-radius: 0.35rem;
+}
+
+.site-nav a {
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.profile-links a {
+  color: #f8dfd1;
+  border-color: rgba(248, 223, 209, 0.38);
+}
+
+.main-content {
+  width: min(100%, 72rem);
+  padding: 5rem clamp(1.25rem, 6vw, 5rem);
+}
+
+.hero-section,
+.content-section {
+  margin-bottom: 4rem;
+}
+
+.hero-section {
+  padding: clamp(2rem, 5vw, 4.5rem);
+  background: rgba(255, 250, 241, 0.86);
+  border: 1px solid rgba(223, 216, 206, 0.9);
+  border-radius: 0.5rem;
+  box-shadow: var(--shadow);
+}
+
+.main-content h2 {
+  margin: 0 0 1.3rem;
+  color: var(--ink);
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: clamp(2rem, 4vw, 3.6rem);
+  line-height: 1.05;
+  letter-spacing: 0;
+}
+
+.content-section > h2 {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.main-content h3 {
+  margin: 0 0 1rem;
+  color: var(--teal);
+  font-size: 0.86rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.main-content h4 {
+  margin: 0 0 0.25rem;
+  color: var(--ink);
+  font-size: 1.1rem;
+  line-height: 1.35;
+}
+
+.main-content p {
+  margin: 0 0 1rem;
+}
+
+.main-content em {
+  color: var(--muted);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.quick-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 1.7rem;
+}
+
+.quick-facts span {
+  padding: 0.42rem 0.7rem;
+  color: var(--ink);
+  font-size: 0.86rem;
+  font-weight: 700;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+}
+
+.section-group {
+  margin-top: 1.4rem;
+}
+
+.timeline-item,
+.publication-list {
+  position: relative;
+  margin: 0 0 1rem;
+  padding: 1.2rem 1.35rem;
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(223, 216, 206, 0.9);
+  border-left: 0.28rem solid var(--teal);
+  border-radius: 0.45rem;
+  box-shadow: 0 10px 26px rgba(33, 45, 62, 0.06);
+}
+
+.timeline-item ul,
+.publication-list ul {
+  margin: 0.85rem 0 0;
+  padding-left: 1.1rem;
+}
+
+.timeline-item li,
+.publication-list li {
+  margin-bottom: 0.62rem;
+  padding-left: 0.2rem;
+}
+
+.publication-list {
+  border-left-color: var(--coral);
+}
+
+.section-action {
+  margin-top: -0.35rem;
+  margin-bottom: 1.5rem;
+}
+
+.section-action a {
+  color: var(--blue);
+  background: rgba(255, 255, 255, 0.64);
+  border-color: rgba(45, 90, 123, 0.3);
+}
+
+.site-footer {
+  padding: 2rem 0 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  border-top: 1px solid var(--line);
+}
+
+@media (max-width: 900px) {
+  .site-shell {
+    display: block;
+  }
+
+  .profile-sidebar {
+    position: relative;
+    height: auto;
+    min-height: 26rem;
+    padding: 1.4rem;
+  }
+
+  .profile-panel {
+    max-width: 42rem;
+    min-height: 23rem;
+  }
+
+  .profile-sidebar h1 {
+    font-size: clamp(2.7rem, 13vw, 4.4rem);
+  }
+
+  .main-content {
+    padding-top: 2rem;
+  }
+}
+
+@media (max-width: 560px) {
+  body {
+    font-size: 15px;
+  }
+
+  .profile-sidebar {
+    padding: 1rem;
+  }
+
+  .profile-mark {
+    width: 3.5rem;
+    height: 3.5rem;
+    margin-bottom: 1.4rem;
+  }
+
+  .site-nav a,
+  .profile-links a,
+  .section-action a {
+    min-height: 2.6rem;
+    padding: 0.5rem 0.68rem;
+  }
+
+  .hero-section {
+    padding: 1.4rem;
+  }
+
+  .timeline-item,
+  .publication-list {
+    padding: 1rem;
+  }
+}
