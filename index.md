@@ -7,15 +7,14 @@ description: Reconfigurable computing systems, FPGA hardware, and EDA
 <section id="about" class="hero-section" markdown="1">
 ## Jiawei Liang
 
-I am a Ph.D. candidate supervised by Professor Wei Zhang (IEEE Fellow) in the Reconfigurable Computing Systems Laboratory ([RCSL](https://eeweiz.home.ece.ust.hk/)) at the Department of Electronic and Computer Engineering, HKUST. My research interests focus on hardware systems and EDA for FPGA.
+I am a Ph.D. candidate supervised by Professor Wei Zhang in the Reconfigurable Computing Systems Laboratory ([RCSL](https://eeweiz.home.ece.ust.hk/)) at the Department of Electronic and Computer Engineering, HKUST. My research interests focus on hardware systems and EDA for FPGA.
 
 Previously, I obtained my B.Eng. and M.Sc. degrees from the School of Electronic and Information Engineering at Beihang University, China, where I worked on CNN pruning. I also served as an IC designer for two years.
 
 <div class="quick-facts">
-  <span>HKUST ECE</span>
-  <span>FPGA & EDA</span>
   <span>Hardware Systems</span>
   <span>Reconfigurable Computing</span>
+  <span>FPGA & EDA</span>
 </div>
 </section>
 
@@ -72,6 +71,13 @@ _2021.07 - 2021.09_
 ### Teaching
 
 <article class="timeline-item" markdown="1">
+#### ELEC 4320, FPGA-based Design: From Theory to Practice
+_School of Engineering, Department of ECE, HKUST. 2024.09 - 2024.11_
+
+- Served as a TA.
+
+</article>
+<article class="timeline-item" markdown="1">
 #### ELEC 3300, Introduction to Embedded Systems
 _School of Engineering, Department of ECE, HKUST. 2025.02 - 2025.05_
 
@@ -126,7 +132,7 @@ _Department of EE, BUAA. 2020.07 - 2020.09_
 - \[C6\] Linfeng Du, **Jiawei Liang**, Jason Lau, Yuze Chi, Yutong Xie, Chunyou Su, Afzal Ahmad, Zifan He, Jake Ke, Jinming Ge, Jason Cong, Wei Zhang and Licheng Guo. "Automated Design Space Exploration in High-Level Physical Synthesis", Proceedings of the 44th IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2025. [pdf](https://ieeexplore.ieee.org/abstract/document/11240757)
 - \[C5\] Zeyu Li, Shangkun Li, Chuyi Dai, Chaofang Ma, **Jiawei Liang**, Xin Li and Wei Zhang, "Robin: RWKV accelerator using Block Circulant Matrices based on FPGA", Proceedings of the 44th IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2025. [pdf](https://ieeexplore.ieee.org/abstract/document/11240845/)
 - \[C4\] Xingyu Liu, **Jiawei Liang**, Linfeng Du, Yipu Zhang, Hanwei Fan, Chaofang Ma, Jiang Xu, Wei Zhang, "FLEX: Leveraging FPGA-CPU Synergy for Mixed-Cell-Height Legalization Acceleration", 54th International Conference on Parallel Processing (ICPP), 2025. [pdf](https://dl.acm.org/doi/pdf/10.1145/3754598.3754629)
-- \[C3\] **Jiawei Liang**, Linfeng Du, Xiaofeng Zhou, Zhe Lin, Jiang Xu, Wei Zhang, "AutoClock: Automated Clock Management for Power-Efficient HLS Designs on FPGAs", 62nd ACM/IEEE Design Automation Conference (DAC), 2025. [code](https://github.com/MasLiang/AutoClock)
+- \[C3\] **Jiawei Liang**, Linfeng Du, Xiaofeng Zhou, Zhe Lin, Jiang Xu, Wei Zhang, "AutoClock: Automated Clock Management for Power-Efficient HLS Designs on FPGAs", 62nd ACM/IEEE Design Automation Conference (DAC), 2025. [pdf](https://ieeexplore.ieee.org/abstract/document/11133279/) [code](https://github.com/MasLiang/AutoClock)
 - \[C2\] Yipu Zhang, **Jiawei Liang**, Jian Peng, Jiang Xu, Wei Zhang, "SpNeRF: Memory Efficient Sparse Volumetric Neural Rendering Accelerator for Edge Devices", Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025. [pdf](https://ieeexplore.ieee.org/abstract/document/10992839/)
 - \[C1\] He Li, Hongxiang Fan, **Jiawei Liang**, "Quantum most-significant digit-first addition", 12th International Green and Sustainable Computing Conference (IGSC), 2021. [pdf](https://ieeexplore.ieee.org/abstract/document/9651595/)
 </div>
